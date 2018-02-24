@@ -1,4 +1,11 @@
-.jumbotron {
+.jumbotron{
+  text-align: center;
+  background-color: #08D7C9;
+}
+.stfu{
+  text-align: left;
 
-  background color : "blue"
+}
+.dai{
+  text-align: right;
 }
